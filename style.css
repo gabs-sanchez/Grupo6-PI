@@ -102,17 +102,16 @@ a{
 }
 
 .des{
-    background-color: rgb(194, 31, 31);
+    background-color: rgb(199, 0, 0);
 }
 
 .corpo .fLogin{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 400px;
     width: 400px;
     font-size: 16px;
-    background-color: rgb(150,28,28);
+    background-color: rgb(199, 0, 0);
     border-radius: 10px;
 }
 
@@ -139,4 +138,5 @@ a{
     border-radius: 4px;
     cursor: pointer;
     align-items: center;
+    margin-bottom: 10px;
 }
